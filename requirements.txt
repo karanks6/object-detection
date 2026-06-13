@@ -1,0 +1,8 @@
+# Object Detection Pro — Requirements
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0
+Pillow>=10.0.0
+customtkinter>=5.2.0
